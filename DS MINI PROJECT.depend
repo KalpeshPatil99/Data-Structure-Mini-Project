@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538758638 source:c:\users\hp\desktop\ds mini project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
